@@ -29,11 +29,11 @@ Regression
 This archive contains 185711 (sample of original dataset) measurements gathered between December 2006 and November 2010 (47 months).
 
 ### Project Team :
--Mona Mohammed Hamdy. 
--Manar Hamada Elsayed
--Ahmed Mohammed Sanad.
--Adham Ashraf Elganzoury.
--Khaled Abdelmohsen Sayed.
--Ahmed Mohammed Kassem.
+-Mona Mohammed Hamdy. <br>
+-Manar Hamada Elsayed. <br>
+-Ahmed Mohammed Sanad. <br>
+-Adham Ashraf Elganzoury. <br>
+-Khaled Abdelmohsen Sayed. <br>
+-Ahmed Mohammed Kassem. <br>
 -
 
